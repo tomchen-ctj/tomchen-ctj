@@ -16,4 +16,4 @@
 
 ​    
 
-MS in Pattern Recognition, really wish to be a geek!
+MS in Pattern Recognition, really wish to be a geeker!
