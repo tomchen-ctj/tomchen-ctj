@@ -16,7 +16,7 @@
 
 ​    
 
-Phd candidate in Pattern Recognition, really wish to be a geeker!
+PhD candidate in Pattern Recognition, really wish to be a geeker!
 
 ## 🗓️ Todolist
 
