@@ -24,4 +24,5 @@ Phd candidate in Pattern Recognition, really wish to be a geeker!
 - [ ] DINO
 - [ ] DEIT
 - [ ] Self-Supervised Video Understanding
+- [ ] VAR : Survey 
 
