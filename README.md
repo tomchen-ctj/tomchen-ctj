@@ -16,4 +16,12 @@
 
 ​    
 
-MS in Pattern Recognition, really wish to be a geeker!
+Phd candidate in Pattern Recognition, really wish to be a geeker!
+
+## 🗓️ Todolist
+
+- [ ] BEIT
+- [ ] DINO
+- [ ] DEIT
+- [ ] Self-Supervised Video Understanding
+
