@@ -1,6 +1,4 @@
-# TomChen
-
-## *Hi👋, it's Tongjia (Tom) Chen*
+## *Hi there👋, it's Tongjia (Tom) Chen*
 
 #### **I like coding, guitar, skateboarding.**
 
