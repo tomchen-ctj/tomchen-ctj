@@ -20,8 +20,10 @@ PhD candidate in Pattern Recognition, really wish to be a geeker!
 
 ## 🗓️ Todolist
 
-- [x] BEIT *--------finished 12/10*
-- [ ] DINO *--------expected 12/11*
-- [ ] DEIT *--------expected 12/12*
-- [ ] Self-Supervised Video Understanding
-- [ ] VAR : Survey 
+Nov. 13-19
+
+- [ ] DINO *--------expected 12/13
+- [ ] DEIT *--------expected 12/14
+- [ ] Patent --------expected 12/15-16
+- [ ] Self-Supervised Video Understanding : a Survey and Outlook
+
