@@ -18,10 +18,13 @@ PhD candidate in Pattern Recognition, really wish to be a geeker!
 
 ## 🗓️ Todolist
 
-Nov. 13-19
+Dec. 2021
 
-- [x] DINO *--------finished 12/15
-- [ ] DEIT *--------expected 12/16
-- [ ] Patent --------expected 12/17-18
-- [ ] Self-Supervised Video Understanding : a Survey and Outlook
+I cancelled my plan of reading papers about self-supervised learning in videos due to lack of gpus and fierce competition. (I will still follow hot ones :P)
+
+I should concern more on multi-modality learning in videos. (Read CLIP)
+
+- [ ] Finish papers about video in ICCV 2021
+- [ ] Multimodal learning from videos(ActionCLIP, etc..)
+- [ ] Patent
 
