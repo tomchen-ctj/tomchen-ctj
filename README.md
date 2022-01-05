@@ -18,14 +18,10 @@ PhD candidate in Pattern Recognition, really wish to be a geeker!
 
 ## 🗓️ Todolist
 
-Dec. 2021
+Jan. 2022
 
-I cancelled my plan of reading papers about self-supervised learning in videos due to lack of gpus and fierce competition. (I will still follow hot ones :P)
+Happy new year!
 
-I should concern more on efficient spatio-temporal feature learner & multi-modality learning in videos. (Read CLIP, Prompt)
-
-- [ ] Finish papers about video in ICCV 2021
-- [ ] Multimodal learning from videos(ActionCLIP, etc..)
-- [ ] Efficient spatio-temporal feature learner
-- [ ] Patent
+- [ ] Finish papers about video in ICCV & CVPR 2021
+- [ ] Efficient action recognition
 
