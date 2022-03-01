@@ -18,10 +18,8 @@ PhD candidate in Pattern Recognition, really wish to be a geeker!
 
 ## 🗓️ Todolist
 
-Jan. 2022
+Mar. 2022
 
-Happy new year!
-
-- [ ] Finish papers about video in ICCV & CVPR 2021
 - [ ] Efficient action recognition
+- [ ] Mathmatics
 
