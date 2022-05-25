@@ -1,5 +1,5 @@
-## *Hi there👋, it's Tongjia (Tom) Chen*
-
+## *Hi there👋, it's Tongjia*
+Feel free to call me Tom
 
 video representation learning / self-sup / multi-modality
 
