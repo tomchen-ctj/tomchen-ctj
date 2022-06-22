@@ -4,8 +4,6 @@ video representation learning / self-sup / multi-modality
 
 ## 🗓️ Todolist
 
-May - July. 2022
+July. 2022
 
-- [ ] SSL for video
-- [ ] Mathmatics
-- [ ] Optimal transport
+- [ ] easy & strong augmentation for video ssl
