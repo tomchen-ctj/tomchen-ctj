@@ -7,3 +7,4 @@ video representation learning / self-sup / multi-modality
 July. 2022
 
 - [ ] easy & strong augmentation for video ssl
+- [ ] video domain adaptation
