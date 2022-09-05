@@ -4,7 +4,7 @@ video representation learning / self-sup / multi-modality
 
 ## 🗓️ Todolist
 
-July. 2022
+Sep. 2022
 
 - [ ] easy & strong augmentation for video ssl
-- [ ] video domain adaptation
+- [ ] video prompt learning
